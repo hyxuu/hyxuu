@@ -32,8 +32,7 @@
 
 
   
-
-  <a href="mailto:hyxuu05@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+ 
 <a href="https://open.spotify.com/user/31cwi2k36foupif47cmpzmq2b3cm?si=7726e528da5b45fc" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
    
