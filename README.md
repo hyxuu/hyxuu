@@ -50,7 +50,7 @@
 <br>
 <div align="left">
 
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyxuu&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyxuu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 
