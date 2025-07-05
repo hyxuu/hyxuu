@@ -1,6 +1,6 @@
 ![download (1)](https://github.com/user-attachments/assets/2c23393e-2a8f-4506-93f2-336a21867615)
 
-<!-- Greeting -->
+
 </h1>
 <h1 align="center">Hello World, I'm Hyxuu</h1>
 
@@ -13,7 +13,7 @@
 <img align="right" alt="coding-gif" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlsb2pudXduMGtsNWF2czl4ajN4MG15dTc0M2k4MmRvbW14c2hlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif" width="500">
 
 
-<!-- about me -->
+
 <h3 align="left">
   <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="github"/>
   About Me
@@ -37,15 +37,14 @@
   <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
    
   
-  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
+
 </div></h4>
 
 </div>
 <br/>
 
 
-<!-- git stat-->
+
 <h3 align="left">Github Status</h3>
 <br>
 <div align="left">
