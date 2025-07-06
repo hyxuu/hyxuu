@@ -6,7 +6,7 @@
 
 <h4 align="center">Sofware Developer | Clean Code Advocate | Lifelong Learner</h4>
 
-![Profile views](https://komarev.com/ghpvc/?username=hyxuu)
+
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
@@ -35,6 +35,8 @@
  
 <a href="https://open.spotify.com/user/31cwi2k36foupif47cmpzmq2b3cm?si=7726e528da5b45fc" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
+
+![](https://komarev.com/ghpvc/?username=hyxuu&style=for-the-badge)
    
   
 
