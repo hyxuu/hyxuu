@@ -6,7 +6,7 @@
 
 <h4 align="center">Sofware Developer | Clean Code Advocate | Lifelong Learner</h4>
 
-![Mi Estado Personalizado](https://my-github-widget.onrender.com/api/status?message=Mi%20Estado%20Personalizado!&bgColor=28a745&textColor=ffffff)
+![Canciones Recientes](https://my-github-widget.onrender.com/api/recent-tracks?username=hyxuu-listenbrainz&limit=5)
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
