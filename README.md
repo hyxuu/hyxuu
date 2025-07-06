@@ -6,9 +6,7 @@
 
 <h4 align="center">Sofware Developer | Clean Code Advocate | Lifelong Learner</h4>
 
-<div align="right">
-  ![Reloj Actual](https://my-github-widget.onrender.com/api/clock?timezone=America/Guayaquil)
-</div>
+![Reloj Actual](https://my-github-widget.onrender.com/api/clock?timezone=America/Guayaquil)
 
     
 <!--VIEWS / WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
