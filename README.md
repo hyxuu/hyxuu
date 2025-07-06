@@ -6,10 +6,12 @@
 
 <h4 align="center">Sofware Developer | Clean Code Advocate | Lifelong Learner</h4>
 
-![Reloj Actual](https://my-github-widget.onrender.com/api/clock?timezone=America/Guayaquil)
+<div align="right">
+  ![Reloj Actual](https://my-github-widget.onrender.com/api/clock?timezone=America/Guayaquil)
+</div>
 
     
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<!--VIEWS / WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <img align="right" alt="coding-gif" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlsb2pudXduMGtsNWF2czl4ajN4MG15dTc0M2k4MmRvbW14c2hlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif" width="500">
 
 
