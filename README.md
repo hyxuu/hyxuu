@@ -6,7 +6,7 @@
 
 <h4 align="center">Sofware Developer | Clean Code Advocate | Lifelong Learner</h4>
 
-
+![Profile views](https://komarev.com/ghpvc/?username=hyxuu)
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
