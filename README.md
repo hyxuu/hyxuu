@@ -29,6 +29,12 @@
   </ul>
 </div>
 
+<h3>🔐Cybersecurity Apprentice</h3>
+  <ul>
+    <li>Learning ethical hacking, network defense, and system protection.</li>
+    <li><strong>Tools:</strong> Wireshark, Nmap, Linux CLI</li>
+  </ul>
+
 
   
  
