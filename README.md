@@ -31,7 +31,7 @@
 
 <h3>🔐Cybersecurity Apprentice</h3>
   <ul>
-    <li>Learning ethical hacking, network defense, and system protection.</li>
+    <li>Learning ethical hacking & network defense with Kali Linux.</li>
     <li><strong>Tools:</strong> Wireshark, Nmap, Linux CLI</li>
   </ul>
 
